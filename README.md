@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Angular Apps & MVC Apps**
 
-- 🌱 I’m currently learning **Angular, Python, Scrum Master, Azure CI/CD, .NET Core, Blockchain and WEB3**
+- 🌱 I’m currently learning **Angular, Python, Scrum Master, Azure CI/CD, .NET Core, Blockchain and Web3**
 
 - 👯 I’m looking to collaborate on **React Apps**
 
