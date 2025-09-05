@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismailibrahim84" target="blank"><img src="https://img.shields.io/twitter/follow/ismailibrahim84?logo=twitter&style=for-the-badge" alt="ismailibrahim84" /></a> </p>
 
-- 🔭 I’m currently working on **Angular Apps & MVC Apps**
+- 🔭 I’m currently working on **Angular Apps & VueJS Apps**
 
 - 🌱 I’m currently learning **Angular, Python, Scrum Master, Azure CI/CD, .NET Core, Blockchain and Web3**
 
