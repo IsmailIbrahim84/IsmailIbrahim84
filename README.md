@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eta-ten-92.vercel.app/api?username=ismailibrahim84&show_icons=true&locale=en" alt="ismailibrahim84" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailibrahim84" alt="ismailibrahim84" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-2bvx.vercel.app?user=ismailibrahim84" alt="ismailibrahim84" /></p>
