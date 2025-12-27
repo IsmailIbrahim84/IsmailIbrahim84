@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Ibrahim Mohamed</h1>
-<h3 align="center">Software Technical Manager at ARPUPLUS</h3>
+<h3 align="center">Staff Engineer at Mondia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailibrahim84&label=Profile%20views&color=0e75b6&style=flat" alt="ismailibrahim84" /> </p>
 
