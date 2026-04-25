@@ -20,10 +20,10 @@
 - 📄 Know about my experiences [https://zety.com/profile/ismail-ibrahim](https://zety.com/profile/ismail-ibrahim)
 
 <h3 align="left">Connect with me:</h3><div style="display: flex; gap: 10px;">
-<a href="https://codepen.io/ismailibrahim84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ismailibrahim84" height="30" width="40" /></a>
-<a href="https://twitter.com/ismailibrahim84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailibrahim84" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismail-ibrahim-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-ibrahim-mohamed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17022585/ismail-ibrahim-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17022585/ismail-ibrahim-mohamed" height="30" width="40" /></a>
+<a href="https://codepen.io/ismailibrahim84" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ismailibrahim84" height="30" width="40" /></a>
+<a href="https://twitter.com/ismailibrahim84" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailibrahim84" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismail-ibrahim-mohamed" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-ibrahim-mohamed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17022585/ismail-ibrahim-mohamed" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17022585/ismail-ibrahim-mohamed" height="30" width="40" /></a>
 <a href="https://fb.com/ismael.i.mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismael.i.mohamed" height="30" width="40" /></a>
 <a href="https://instagram.com/ismailibrahim84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailibrahim84" height="30" width="40" /></a>
 </div>
